@@ -82,7 +82,9 @@ For more example READMEs, please check out the following repositories:
 
 ## Contributing
 
-Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
+Github [``issue``](https://github.com/ZiZhao-Wang/LSM-tree-based-on-OCSSD/issues) and [``pull
+request``](https://github.com/ZiZhao-Wang/LSM-tree-based-on-OCSSD/pulls) are preferred. Do let
+us know if you have any thoughts! 
 
 ## References
 
