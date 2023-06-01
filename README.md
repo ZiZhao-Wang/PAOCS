@@ -17,13 +17,13 @@ To install and build the LSM-tree implementation, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/username/repository.git
+git clone https://github.com/ZiZhao-Wang/LSM-tree-based-on-OCSSD.git
 ```
 
 2. Change to the repository directory:
 
 ```
-cd repository
+cd LSM-tree-based-on-OCSSD
 ```
 
 3. Build the project:
@@ -31,6 +31,7 @@ cd repository
 ```
 make
 ```
+
 
 ## Usage
 
@@ -51,12 +52,9 @@ To run the LSM-tree on FEMU-simulated OCSSD with SPDK I/O, follow these steps:
 2. Run the LSM-tree application:
 
 ```
-./lsm-tree
+src "trtype:PCIe traddr:0000:00:05.0"
 ```
 
-## Generator
-
-This README was generated using the GPT-4 language model.
 
 ## Badge
 
@@ -80,7 +78,7 @@ For more example READMEs, please check out the following repositories:
 
 ## Maintainers
 
-- [Your Name](https://github.com/username)
+- [Your Name](https://github.com/ZiZhao-Wang)
 
 ## Contributing
 
