@@ -56,14 +56,6 @@ src "trtype:PCIe traddr:0000:00:05.0"
 ```
 
 
-## Badge
-
-You can show your support for this project by adding a badge to your project's README:
-
-```
-[![LSM-tree on FEMU-simulated OCSSD with SPDK I/O](https://img.shields.io/badge/LSM--tree-OCSSD--SPDK-brightgreen)](https://github.com/username/repository)
-```
-
 ## Example Readmes
 
 For more example READMEs, please check out the following repositories:
